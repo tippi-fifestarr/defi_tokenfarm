@@ -1,3 +1,7 @@
+# Partially tested, Verified and Deployed
+1. https://kovan.etherscan.io/address/0xD1c27467d9fFbD5CE66cb23fd2250F5Cdc763f0f#contracts
+2. https://kovan.etherscan.io/address/0xb1755960Bb30e330d4cdb34395b66a03259bBC31#contracts
+
 # Chainlink Truffle Box
 
 <br/>
