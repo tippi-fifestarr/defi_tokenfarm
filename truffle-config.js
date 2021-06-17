@@ -38,6 +38,8 @@ module.exports = {
       skipDryRun: true
     },
   },
+  // allow front end to interact better
+  contracts_build_directory: './src/abis/',
   compilers: {
     solc: {
       version: '0.6.6',
